@@ -1,0 +1,120 @@
+# Site
+name: 'Working Space for wjlee'
+title: "Working space for wjlee"
+description: 'Working space for wjlee'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+avatar: 'assets/images/avatar255x287.png'
+#disqus: 'demowebsite'
+email: 'wenchiehlee1020@gmail.com'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-spaceship
+  - jekyll-toc  
+# Ideal image slider
+iis_slider_array: [] 
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+  
+authors:
+    wjlee:
+      name:           Wen-Chieh-Lee
+      site:           https://wjlee-barco.github.io/
+      avatar:         /assets/images/avatar255x287.png
+      bio:            "Senior Software Architect"
+      email:          wenchiehlee1020@gmail.com
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: wjlee
+      avatar: /assets/images/avatar255x287.png
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Pagination
+paginate: 20
+
+paginate_path: "/blog/page:num/"
+
+jekyll-spaceship:
+  # default enabled processors
+  processors:
+    - table-processor
+    # - mathjax-processor
+    - plantuml-processor
+    - mermaid-processor
+    - polyfill-processor
+    - video-processor
+    - emoji-processor
+    - element-processor
+  # mathjax-processor:
+  #   src:  https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  #   config:
+  #     tex2jax:
+  #       inlineMath:
+  #         - ['$','$']
+  #         - ['\(','\)']
+  plantuml-processor:
+    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: plantuml
+    syntax:
+      code: 'plantuml!'
+      custom: ['@startuml', '@enduml']
+    src: http://www.plantuml.com/plantuml
+  mermaid-processor:
+    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: mermaid
+    syntax:
+      code: 'mermaid!'
+      custom: ['@startmermaid', '@endmermaid']
+    config:
+      theme: default
+    src: https://mermaid.ink
+  video-processor:
+    default:
+      id: 'video-{id}'
+      class: 'video'
+      width: '100%'
+      height: 500
+      border: 0
+      style: 'max-width: 800px'
+      allow: 'encrypted-media; picture-in-picture'
+  emoji-processor:
+    css:
+      class: emoji
+    src: https://github.githubassets.com/images/icons/emoji/
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

@@ -1,0 +1,13 @@
+_site
+.sass-cache
+.jekyll-metadata
+node_modules
+Gemfile.lock
+
+.github/desktop.ini
+
+assets/plugins/ideal-image-slider/extensions/captions/desktop.ini
+
+assets/plugins/ideal-image-slider/extensions/desktop.ini
+
+.github/workflows/desktop.ini
