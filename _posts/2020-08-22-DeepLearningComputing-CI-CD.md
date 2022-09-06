@@ -3,7 +3,7 @@ title:  "Deep Learning Computing CI/CD Framework"
 metadate: "2020-08-22"
 categories: [DevOps]
 image: "https://miro.medium.com/max/945/1*qehZ1KLTEO6y8tcCwlwWzQ.png"
-visit: "http://dlc.barco.com"
+visit: "http://dlc.dlc.com"
 toc: true
 tags: [featured]
 author: wjlee
@@ -41,26 +41,26 @@ author: wjlee
 
 |Git Repo| Status | Progress  | Comments|
 |--| ------ | ------ | -- |
-| [![gitlab](https://img.shields.io/badge/project-gitlab-green)]() | [![status](https://gitlab.com/barco.co/gitlab/badges/master/pipeline.svg)](https://gitlab.com/barco.co/gitlab/pipelines) | [![progress](https://img.shields.io/badge/progress-beta-green)](https://tailab.barco.com:9443) User=root <br> [![gitlab grafana](https://img.shields.io/badge/grafana_of_gitlab-beta-green)](https://tailab.barco.com:9443/-/grafana)|
+| [![gitlab](https://img.shields.io/badge/project-gitlab-green)]() | [![status](https://gitlab.com/barco.co/gitlab/badges/master/pipeline.svg)](https://gitlab.com/barco.co/gitlab/pipelines) | [![progress](https://img.shields.io/badge/progress-beta-green)](https://tailab.dlc.com:9443) User=root <br> [![gitlab grafana](https://img.shields.io/badge/grafana_of_gitlab-beta-green)](https://tailab.dlc.com:9443/-/grafana)|
 
 
-#### [Current runners](https://tailab.barco.com:9443/admin/runners)
+#### [Current runners](https://tailab.dlc.com:9443/admin/runners)
 
-| Servers | [![Runner](https://img.shields.io/badge/Runner-gree?logo=gitlab)](https://tailab.barco.com:9443/admin/runners)  | OS    |[![tag](https://img.shields.io/badge/Tag-blue?logo=Google-tag-Manager)](https://tailab.barco.com:9443/admin/runners)| Monitoring|
+| Servers | [![Runner](https://img.shields.io/badge/Runner-gree?logo=gitlab)](https://tailab.dlc.com:9443/admin/runners)  | OS    |[![tag](https://img.shields.io/badge/Tag-blue?logo=Google-tag-Manager)](https://tailab.dlc.com:9443/admin/runners)| Monitoring|
 |---------|---------|-------|---|--------------------|
-| [![dlc.barco.com](https://img.shields.io/badge/dlc.barco.com-yellow?logo=nginx)](http://dlc.barco.com)                   | dlc          | Ubuntu18.04  |dlc, ubuntu, GPU| [![Node](https://img.shields.io/badge/Node-green?logo=grafana)](https://dlc.barco.com:3000/d/Xhz-2PMWz/linux?orgId=1) [![GPU](https://img.shields.io/badge/GPU-gray?logo=nVidia)](https://dlc.barco.com:3000/d/whRCVvEWz/nvidia-gpu?orgId=1) |
-| [![dlc1.barco.com](https://img.shields.io/badge/dlc1.barco.com-purple?logo=nginx)](http://dlc1.barco.com)                   | dlc1          | Ubuntu18.04      |dlc1, ubuntu, GPU| [![Node](https://img.shields.io/badge/Node-green?logo=grafana)](https://dlc.barco.com:3000/d/Xhz-2PMWz/linux?orgId=1) [![GPU](https://img.shields.io/badge/GPU-gray?logo=nVidia)](https://dlc.barco.com:3000/d/whRCVvEWz/nvidia-gpu?orgId=1) |
-| [![dlc2.barco.com](https://img.shields.io/badge/dlc2.barco.com-green?logo=nginx)](http://dlc2.barco.com)                   | dlc2          | Ubuntu18.04      |dlc2, ubuntu| [![Node](https://img.shields.io/badge/Node-green?logo=grafana)](https://dlc.barco.com:3000/d/Xhz-2PMWz/linux?orgId=1) |
+| [![dlc.dlc.com](https://img.shields.io/badge/dlc.dlc.com-yellow?logo=nginx)](http://dlc.dlc.com)                   | dlc          | Ubuntu18.04  |dlc, ubuntu, GPU| [![Node](https://img.shields.io/badge/Node-green?logo=grafana)](https://dlc.dlc.com:3000/d/Xhz-2PMWz/linux?orgId=1) [![GPU](https://img.shields.io/badge/GPU-gray?logo=nVidia)](https://dlc.dlc.com:3000/d/whRCVvEWz/nvidia-gpu?orgId=1) |
+| [![dlc1.dlc.com](https://img.shields.io/badge/dlc1.dlc.com-purple?logo=nginx)](http://dlc1.dlc.com)                   | dlc1          | Ubuntu18.04      |dlc1, ubuntu, GPU| [![Node](https://img.shields.io/badge/Node-green?logo=grafana)](https://dlc.dlc.com:3000/d/Xhz-2PMWz/linux?orgId=1) [![GPU](https://img.shields.io/badge/GPU-gray?logo=nVidia)](https://dlc.dlc.com:3000/d/whRCVvEWz/nvidia-gpu?orgId=1) |
+| [![dlc2.dlc.com](https://img.shields.io/badge/dlc2.dlc.com-green?logo=nginx)](http://dlc2.dlc.com)                   | dlc2          | Ubuntu18.04      |dlc2, ubuntu| [![Node](https://img.shields.io/badge/Node-green?logo=grafana)](https://dlc.dlc.com:3000/d/Xhz-2PMWz/linux?orgId=1) |
 
 ### How to setup dlc/dlc1 to run a TensorFlow GPU project
 
 #### with Gitlab runner
 
-##### Step 1: Add project to Gitlab https://tailab.barco.com:9443/deeplearningcomputing
+##### Step 1: Add project to Gitlab https://tailab.dlc.com:9443/deeplearningcomputing
 
-##### Step 1.5: If your project is in https://git.barco.com/
+##### Step 1.5: If your project is in https://git.dlc.com/
 
-You will need to import your project for gitlab CI/CD only by add your project into https://tailab.barco.com:9443/root/git-sync-mirror. After that, bitbucket code will be automatically syced to gitlab server.
+You will need to import your project for gitlab CI/CD only by add your project into https://tailab.dlc.com:9443/root/git-sync-mirror. After that, bitbucket code will be automatically syced to gitlab server.
 
 ##### Step 2: Enable dlc gitlab runner and setup CI/CD
 
@@ -69,7 +69,7 @@ You will need to import your project for gitlab CI/CD only by add your project i
 
 #### with ssh or RDP + admin account
 
-Step 1: Check with wj.lee@barco.com and ask for admin account of dlc
+Step 1: Check with wj.lee@dlc.com and ask for admin account of dlc
 
 Step 2: With ssh or RPD to login to dlc
 
@@ -113,7 +113,7 @@ Step 5.1:
 First, by command line for docker gitlab-runner
 
 ```bash
-sudo gitlab-runner register -n --url https://tailab.barco.com:9443/ --registration-token YOUR-TOKEN --executor docker --description ${HOSTNAME}.barco.com --tag-list "ubuntu, docker, ${HOSTNAME}" --run-untagged="true" --docker-image "docker:stable" --docker-privileged --tls-ca-file=/etc/gitlab-runner/certs/ssl.csr 
+sudo gitlab-runner register -n --url https://tailab.dlc.com:9443/ --registration-token YOUR-TOKEN --executor docker --description ${HOSTNAME}.dlc.com --tag-list "ubuntu, docker, ${HOSTNAME}" --run-untagged="true" --docker-image "docker:stable" --docker-privileged --tls-ca-file=/etc/gitlab-runner/certs/ssl.csr 
 ```
 
 
@@ -122,7 +122,7 @@ PS: YOUR-TOKEN can be obtained from [Gitlab Server](#gitlab-server), in top menu
 Second, by command line for shell gitlab-runner
 
 ```bash
-sudo gitlab-runner register -n --url https://tailab.barco.com:9443/ --registration-token YOUR-TOKEN --executor shell --description ${HOSTNAME}.barco.com --tag-list "ubuntu, shell, ${HOSTNAME}" --run-untagged="true" --tls-ca-file=/etc/gitlab-runner/certs/ssl.csr
+sudo gitlab-runner register -n --url https://tailab.dlc.com:9443/ --registration-token YOUR-TOKEN --executor shell --description ${HOSTNAME}.dlc.com --tag-list "ubuntu, shell, ${HOSTNAME}" --run-untagged="true" --tls-ca-file=/etc/gitlab-runner/certs/ssl.csr
 ```
 If you have no idea how to get '/etc/gitlab-runner/certs/ssl.csr', please check step XX.
 
@@ -198,7 +198,7 @@ PANIC: Failed to register this runner. Perhaps you are having network problems
 then follow the steps below to get self-certification and note the filename is 'ssl.crt'
 
 ```bash
-SERVER=SERVER=tailab.barco.com
+SERVER=SERVER=tailab.dlc.com
 PORT=9443
 
 CERTIFICATE=/etc/gitlab-runner/certs/ssl.crt
