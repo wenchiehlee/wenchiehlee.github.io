@@ -17,6 +17,8 @@ Better service cycling from a deeper insights of data
 
 [![](https://assets.new.siemens.com/siemens/assets/api/uuid:13033b39-8570-40f2-80e5-4fc3b28bcb67/width:1920/crop:0:0,06111:1:0,88194/quality:high/graph-showing-the-mobility-analytics-cycle-.gif)](https://www.mobility.siemens.com/global/en/portfolio/intermodal/data-analytics.html)
 
+[![](https://www.edgeimpulse.com/static/ei-cycle-d-e59c64ebeda3ccc80fa9a298cd0835f2.gif)](https://www.edgeimpulse.com/)
+
 Deeper insights of data
 
 [![](https://research.aimultiple.com/wp-content/uploads/2019/12/Evolution-of-Analytics-1160x880.png)](https://research.aimultiple.com/analytics/)
