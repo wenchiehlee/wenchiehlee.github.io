@@ -1,0 +1,148 @@
+# - selector: slider1
+#   bullets: false
+#   captions: true
+#   images:
+#     - src: {{ site.url }}{{ site.baseurl }}/assets/images/1096x632_PPT_image-lanczos3.png
+#       alt: Minimum required attributes
+#     - data-src: {{ site.url }}{{ site.baseurl }}/assets/images/1096x632_PPT_image_Waifu2x-NCNN-Vulkan.png
+#       alt: Use data-src for on-demand loading
+#     - data-src: /img/3.jpg
+#       data-src-2x: /img/3@2x.jpg
+#       alt: Use data-src-2x for HiDPI devices
+#     - src: /img/4.jpg
+#       alt: Links work too
+#       href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+#   settings:
+#     height: 400
+#     initialHeight:
+#     maxHeight:
+#     interval:
+#     transitionDuration:
+#     effect:
+#     disableNav:
+#     keyboardNav:
+#     previousNavSelector:
+#     nextNavSelector:
+
+# - selector: slider2
+#   bullets: true
+#   captions: true
+#   images:
+#     - src: {{ site.url }}{{ site.baseurl }}/assets/images/1096x632_PPT_image-lanczos3.png
+#       title: Balloons!
+#       alt: This slider has caption titles
+#     - data-src: {{ site.url }}{{ site.baseurl }}/assets/images/1096x632_PPT_image_Waifu2x-NCNN-Vulkan.png
+#       title: This slider uses the fade effect
+#       alt: Instead of the default slide effect
+#     - data-src: /img/3.jpg
+#       data-src-2x: /img/3@2x.jpg
+#     - src: /img/4.jpg
+#       title: Last image had no caption!
+#       alt: Also, this image has no link
+#   settings:
+#     height: "'auto'"
+#     effect: "'fade'"
+
+- selector: slider1
+  bullets: false
+  captions: true
+  images:
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/IMG_0754.JPG
+      alt: IMG_0754.JPG
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/IMG_0754.JPG.png
+      alt: IMG_0754.JPG with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/Toucan.jpg
+      alt: Toucan.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/Toucan.jpg.png
+      alt: Toucan.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/IMG_1192.jpg
+      alt: IMG_1192.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/IMG_1192.jpg.png
+      alt: IMG_1192.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/1.jpg
+      alt: 1.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/1.jpg.png
+      alt: 1.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/2.jpg
+      alt: 2.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/2.jpg.png
+      alt: 2.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/3.jpg
+      alt: 3.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/3.jpg.png
+      alt: 3.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/4.jpg
+      alt: 4.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/4.jpg.png
+      alt: 4.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/5.jpg
+      alt: 5.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/5.jpg.png
+      alt: 5.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/6.jpg
+      alt: 6.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/6.jpg.png
+      alt: 6.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/7.jpg
+      alt: 7.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/7.jpg.png
+      alt: 7.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/8.jpg
+      alt: 8.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/8.jpg.png
+      alt: 8.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/9.jpg
+      alt: 9.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/9.jpg.png
+      alt: 9.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/10.jpg
+      alt: 10.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/10.jpg.png
+      alt: 10.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/11.jpg
+      alt: 11.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/11.jpg.png
+      alt: 11.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/12.jpg
+      alt: 12.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/12.jpg.png
+      alt: 12.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/13.jpg
+      alt: 13.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/13.jpg.png
+      alt: 13.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/14.jpg
+      alt: 14.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/14.jpg.png
+      alt: 14.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/15.jpg
+      alt: 15.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/15.jpg.png
+      alt: 15.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/IMG_1613.jpg
+      alt: IMG_1613.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/IMG_1613.jpg.png
+      alt: IMG_1613.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/IMG_8282.JPG
+      alt: IMG_8282.JPG
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/IMG_8282.JPG.png
+      alt: IMG_8282.JPG with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/IMG_8544.jpg
+      alt: IMG_8544.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/IMG_8544.jpg.png
+      alt: IMG_8544.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/IMG_0124.jpg
+      alt: IMG_0124.jpg
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/IMG_0124.jpg.png
+      alt: IMG_0124.jpg with U2Net
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/test/IMG_8609.JPG
+      alt: IMG_8609.JPG
+    - src: https://dlc.barco.com/dlcv2/assets/images/raw/chimay-SOD2/u2net/IMG_8609.JPG.png
+      alt: IMG_8609.JPG with U2Net
+
+
+
+  settings:
+    height: "'auto'"
+    disableNav: false
+    effect: "'fade'"
