@@ -10,8 +10,6 @@ visit: "https://wiki.barco.com/display/~WJLEE/Super+Resolution+of+Images"
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | [![Max SRGAN](https://img.shields.io/badge/MAX_SRGAN-gray?logo=IBM)](https://git.barco.com/users/wjlee/repos/max-image-resolution-enhancer/browse) | [![status](https://tailab.barco.com:9443/deeplearningcomputing/max-image-resolution-enhancer/badges/master/pipeline.svg)](https://tailab.barco.com:9443/deeplearningcomputing/max-image-resolution-enhancer/pipelines) | [![progress](https://img.shields.io/badge/MAX_SRGAN-POC-red)](http://dlc.barco.com:5000/)|IBM MAX SRGAN POC #2|
 
-[![](https://rebrand.ly/dlc_png_url)](https://rebrand.ly/dlc_uml_url)
-
 
 The above image is one result of SRGAN. It is not good in artwork image. Visit the online benchmark comparsion of SRGAN of several different images on [POC: Super Resolution with waifu2x]({{site.url}}{{site.baseurl}}/SuperResolution-with-waifu2x/)
 

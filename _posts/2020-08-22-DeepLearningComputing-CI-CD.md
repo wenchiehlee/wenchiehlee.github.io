@@ -9,7 +9,6 @@ tags: [featured]
 author: wjlee
 ---
 
-[![](https://rebrand.ly/dlc_png_url)](https://rebrand.ly/dlc_uml_url)
 
 ### POCs on Small changes from Open Source
 
