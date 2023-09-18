@@ -1,7 +1,7 @@
 ---
 title:  "AIOT data collection- Part 4- Alert"
 metadate: "2021-07-29 21:40:10"
-categories: ["BigData"]
+categories: ["Data"]
 image: "https://newrelic.com/sites/default/files/wp_blog_inline_files/telegraf1.png"
 visit:
 tags: [featured]

@@ -1,9 +1,9 @@
 ---
 title:  "AIOT data collection"
 metadate: "2021-04-10 21:40:10"
-categories: ["BigData", "IOT"]
+categories: ["Data", "IOT"]
 image: "/assets/images/11.04.2021_19.07.45_REC.png"
-visit:
+visit: "https://wenchiehlee.github.io/AIOT-data-collection/"
 tags: [featured]
 featured: true
 author: wjlee
