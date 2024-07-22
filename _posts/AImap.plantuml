@@ -1,0 +1,44 @@
+@startmindmap
+!theme toy
+Skinparam sequenceArrowThickness 1
+skinparam ParticipantPadding 5
+skinparam BoxPadding 10
+skinparam actorStyle awesome
+skinparam LegendBorderThickness 0
+
+* AI
+** Computer Vision
+*** Image to \nImage Transformer
+**** waifu2x 
+***** Better upscale \nfor artwork
+***** Better upscale \nfor 4K
+*** Image Feature \nExtraction
+**** Object detection
+***** Max OCR
+****  Face landmark \ndetection
+***** Facemesh
+***** face-api.js
+**** Body landmark \ndetection
+***** Posenet
+****** Pose-animator
+****** bodypixv2
+**** Hand landmark \ndetection
+***** Handpose
+*** Image \nSegmentation
+**** N2Net
+***** Key object \nspotting
+***** Background \nremoval
+** Computer Audio
+*** Speech synthesis
+**** Opentts
+**** Mozillatts
+** Nature Language \nprocessing
+*** winkjs
+** Data
+*** Analytics
+*** Data insights
+*** Recommendation
+**** lightfm
+** CI/CD
+*** POCs on Short \nbut full Cycle \nDeployments
+@endmindmap
