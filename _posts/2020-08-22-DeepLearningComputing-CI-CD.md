@@ -1,7 +1,7 @@
 ---
 title:  "Deep Learning Computing CI/CD Framework"
 metadate: "2020-08-22"
-categories: [DevOps]
+categories: ["DevOps"]
 image: "https://miro.medium.com/max/945/1*qehZ1KLTEO6y8tcCwlwWzQ.png"
 visit: "https://wenchiehlee.github.io/DeepLearningComputing-CI-CD/"
 toc: true
