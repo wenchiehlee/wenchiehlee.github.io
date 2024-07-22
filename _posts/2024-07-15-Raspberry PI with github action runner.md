@@ -1,5 +1,5 @@
 ---
-title:  "RaspberryPI with github actions runner"
+title:  "Raspberry PI with github actions runner"
 metadate: "2024-07-15 12:00:00"
 categories: ["IOT"]
 image: 
