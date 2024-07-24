@@ -4,8 +4,6 @@ metadate: "2023-09-20 12:40:10"
 categories: ["Data"]
 image: 
 visit:
-tags: [featured]
-featured: true
 author: wjlee
 ---
 

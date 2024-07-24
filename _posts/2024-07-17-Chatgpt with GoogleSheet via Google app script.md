@@ -4,8 +4,6 @@ metadate: "2024-07-12 12:00:00"
 categories: ["GenAI"]
 image: https://miro.medium.com/v2/format:webp/1*xIBJPl26sSNuAxPd7BKG3w.jpeg
 visit:
-tags: [featured]
-featured: true
 author: wjlee
 ---
 

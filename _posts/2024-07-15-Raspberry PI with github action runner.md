@@ -4,8 +4,6 @@ metadate: "2024-07-15 12:00:00"
 categories: ["IOT"]
 image: https://earthly.dev/blog/assets/images/composite-actions-github/workflow.png
 visit:
-tags: [featured]
-featured: true
 author: wjlee
 ---
 
