@@ -1,5 +1,5 @@
 ---
-title:  "ChatGPT with GoogleSheet via Google app script"
+title:  "Blog with Jekyll and Github pages"
 metadate: "2024-07-17 12:00:00"
 categories: [DevOps]
 image: 
