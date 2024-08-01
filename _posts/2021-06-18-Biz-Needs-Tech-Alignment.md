@@ -17,10 +17,10 @@ with this idea, you can work smarter, not harder.
 [![](https://www.ntaskmanager.com/wp-content/uploads/2020/02/Work-Smarter-Not-Harder.png)]()
 
 
-**Technology** mainly focus on **system integration and its related **components** and output as *Biz*,*Process*, *Services*, *Products* and etc.
+**Technology** mainly focus on **system integration and its related components** and output as **Biz**,**Process (flow)**, **Services**, **Products** and etc.
 [![](https://s17776.pcdn.co/wp-content/uploads/2017/02/Insights-How-IoT-and-Digital-Transformation-Will-Turn-Systems-Integrators-into-Strategic-Integrators-1.png)](https://wiprodigital.com/2017/02/23/iot-digital-transformation-will-turn-systems-integrators-strategic-integrators/)
 
-The **component** can be **Algorithm**, **Application**m **Software**, **Hardware**, **system**.
+The **component** can be **Algorithm**, **Application**, **Software**, **Hardware**, **System**.
 
 [![](https://jennifersolutionscom.files.wordpress.com/2017/06/computer-system.jpg)](https://jennifersolutionscom.wordpress.com/2017/06/21/function-of-hardware-and-software-components/)
 
