@@ -1,6 +1,6 @@
 ---
 title:  "AIOT data collection"
-metadate: "2021-04-10 21:40:10"
+date: 2021-04-10
 categories: ["Data", "IOT"]
 image: "/assets/images/11.04.2021_19.07.45_REC.png"
 visit: "https://wenchiehlee.github.io/AIOT-data-collection/"

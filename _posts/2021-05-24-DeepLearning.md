@@ -1,6 +1,6 @@
 ---
 title:  "Deep Learning"
-metadate: "2021-05-24 21:40:10"
+date: 2021-05-24
 categories: ["AI","Deep Learning"]
 image: "https://blog.bismart.com/hs-fs/hubfs/02-MachinelearningVSDeeplearning_Mesa%20de%20trabajo%201%20copia%202_Mesa%20de%20trabajo%201%20copia%202.jpg?width=1755&name=02-MachinelearningVSDeeplearning_Mesa%20de%20trabajo%201%20copia%202_Mesa%20de%20trabajo%201%20copia%202.jpg"
 visit:

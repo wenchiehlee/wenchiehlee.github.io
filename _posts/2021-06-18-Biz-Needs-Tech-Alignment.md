@@ -1,6 +1,6 @@
 ---
 title:  "Biz-Needs-Tech-Alignment"
-metadate: "2021-06-13 21:40:10"
+date: 2021-06-13
 categories: ["DevOps"]
 image: "https://miro.medium.com/max/3600/1*qxFrRU5Ftk7S3lo06brQ-g.png"
 visit:

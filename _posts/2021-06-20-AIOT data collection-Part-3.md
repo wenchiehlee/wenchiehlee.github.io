@@ -1,6 +1,6 @@
 ---
 title:  "AIOT data collection- Part 3- Web Scraper"
-metadate: "2021-06-20 21:40:10"
+date: 2021-06-20
 categories: ["Data"]
 image: "https://newrelic.com/sites/default/files/wp_blog_inline_files/telegraf1.png"
 visit:

@@ -1,6 +1,6 @@
 ---
 title:  "Data visualization"
-metadate: "2023-09-20 12:40:10"
+date: 2023-09-20
 categories: ["Data"]
 image: 
 visit:

@@ -1,6 +1,6 @@
 ---
 title:  "AIOT data collection- Part 2"
-metadate: "2021-04-27 21:40:10"
+date: 2021-04-27
 categories: ["Data", "IOT"]
 image: "https://datajourney.akvo.org/hs-fs/hubfs/Screen%20Shot%202020-07-28%20at%2012.08.42.png?width=1094&name=Screen%20Shot%202020-07-28%20at%2012.08.42.png"
 visit:

@@ -1,6 +1,6 @@
 ---
 title:  "Raspberry PI with github actions runner"
-metadate: "2024-07-15 12:00:00"
+date: 2024-07-15
 categories: ["IOT"]
 image: https://earthly.dev/blog/assets/images/composite-actions-github/workflow.png
 visit:

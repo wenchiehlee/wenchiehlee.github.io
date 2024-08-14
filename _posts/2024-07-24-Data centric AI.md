@@ -1,12 +1,12 @@
 ---
 title:  "Data centric AI"
-metadate: "2024-07-24 12:00:00"
+date: 2024-07-24
 categories: ["GenAI","Data"]
 image: https://github.com/daochenzha/data-centric-AI/raw/main/imgs/data-centric.png
 visit:
 tags: [featured]
 featured: true
-author: wjlee
+author: [wjlee]
 ---
 
 # Overview
