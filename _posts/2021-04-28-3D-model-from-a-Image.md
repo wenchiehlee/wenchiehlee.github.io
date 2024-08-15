@@ -9,7 +9,7 @@ featured: true
 author: wjlee
 ---
 
-# References
+## References
 * [crazytalk- talking avatar](https://www.reallusion.com/crazytalk/features.html)
 * [Headshot](https://www.reallusion.com/character-creator/headshot/default.html#overview)
 * [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/)

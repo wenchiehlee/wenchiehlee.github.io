@@ -15,5 +15,5 @@ author: wjlee
 
 
 
-# References
+## References
 * [用維基語料訓練 Word2vec 和 FastText embedding](https://medium.com/@black_swan/%E7%94%A8%E7%B6%AD%E5%9F%BA%E8%AA%9E%E6%96%99%E8%A8%93%E7%B7%B4-word2vec-%E5%92%8C-fasttext-embedding-25ede5b15994)

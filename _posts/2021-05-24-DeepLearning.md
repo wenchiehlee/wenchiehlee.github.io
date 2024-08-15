@@ -9,21 +9,21 @@ featured: true
 author: wjlee
 ---
 
-# Data Engineer
+## Data Engineer
 
 [![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F4440537%2F0c4776ad1bbea2a6170218a74f090697%2Froadmap.png?generation=1610806571941520&alt=media)](https://www.kaggle.com/getting-started/211797)
 
 [![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F4440537%2F18696aadc28d2c4e3c605daa3dff7bff%2Fsnapseed-01.jpeg?generation=1610797347983636&alt=media)](https://www.kaggle.com/getting-started/211797)
 
-# Data Science
+## Data Science
 
 [![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F4440537%2Ff7e0ec8768b70877d8045858a896bd42%2Fprob.png?generation=1610797178024628&alt=media)](https://www.kaggle.com/getting-started/211797)
 
-# Machine Learning
+## Machine Learning
 
 [![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F4440537%2Fa717c1758e1061d3b8524ad4cf495795%2Fml.png?generation=1610797250777303&alt=media)](https://www.kaggle.com/getting-started/211797)
 
-# AI PPTs
+## AI PPTs
 
 This article collects excellent PPTs on AI.
 

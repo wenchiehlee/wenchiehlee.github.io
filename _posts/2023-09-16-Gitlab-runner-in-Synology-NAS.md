@@ -7,7 +7,7 @@ visit:
 author: wjlee
 ---
 
-# Overview
+## Overview
 
 
 ``` bash
@@ -21,7 +21,7 @@ openssl ec -in ECC-privkey.pem -out ecc.key
 openssl x509 -in cert.pem -out cert.crt
 ```
 
-# Refrences
+## Refrences
 * [Installing a Self-Hosted GitHub Actions Runner on Synology NAS](https://oleksandrkirichenko.com/blog/github-runner-on-synology/)
 * [在 Synology NAS 上跑 gitlab-runner](https://viml.nchc.org.tw/archive_blog_759/)
 * [Synology Gitlab 設定 HTTPS 連線](https://medium.com/@alex_cheng_9527/synology-gitlab-%E8%A8%AD%E5%AE%9A-https-%E9%80%A3%E7%B7%9A-376c2e933fd2)

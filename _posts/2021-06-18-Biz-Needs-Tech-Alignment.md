@@ -24,4 +24,4 @@ The **component** can be **Algorithm**, **Application**, **Software**, **Hardwar
 
 [![](https://jennifersolutionscom.files.wordpress.com/2017/06/computer-system.jpg)](https://jennifersolutionscom.wordpress.com/2017/06/21/function-of-hardware-and-software-components/)
 
-# References
+## References
